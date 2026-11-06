@@ -12,8 +12,6 @@ I'm currently developing my skills in data analytics through hands-on projects a
 - Microsoft Excel – Data analysis and reporting
 - Python – Programming and data analysis
 
-📊 Featured Projects
-
 1. MySQL Data Cleaning Project
 
 A practical data cleaning project using SQL, including:
